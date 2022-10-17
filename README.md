@@ -7,4 +7,4 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like pizza on pineapple.
 
-[![Watch the video]([https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg])
+![github-contribution-grid-snake](https://user-images.githubusercontent.com/104468428/196215542-3dc18ed5-791b-40be-afae-fee69e52d8fe.svg)
