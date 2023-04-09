@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m curredfntly working on a Roblox executor.
-- 🌱 I’m currently learning C#
+- 🔭 I’m curredfntly working on a Minecraft Hypixel Skyblock Mod.
+- 🌱 I’m currently learning Java
 - 🤔 I’m looking for help with C#/UI
 - 📫 How to reach me: Youtube - Armandukx
 - 😄 Pronouns: He/Him
