@@ -2,7 +2,7 @@
 
 #### Hi there 👋
 
-- 🔭 I’m curredfntly working on a Minecraft Hypixel Skyblock Mod.
+- 🔭 I’m curredfntly working on a Minecraft mod.
 - 🌱 I’m currently learning Java
 - 🤔 I’m looking to help with c# or any project
 - 📫 My Email: armandukxreal@gmail.com
